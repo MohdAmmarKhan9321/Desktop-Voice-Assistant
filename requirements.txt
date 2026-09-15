@@ -4,4 +4,3 @@ pyttsx3
 pyautogui
 screen-brightness-control
 wikipedia
-hello
