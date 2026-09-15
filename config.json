@@ -1,0 +1,21 @@
+{
+  "wakeword": "python",
+  "assistantName": "python",
+  "voice": "Microsoft Zira - English (United States)",
+  "tts_rate": 175,
+  "tts_volume": 1,
+  "auto_standby": true,
+  "log_file": "assistant_history.log",
+  "features": [
+    "open_close_apps",
+    "open_close_websites",
+    "search_google",
+    "search_firefox",
+    "time_date_weather",
+    "take_screenshot",
+    "volume_brightness",
+    "standby_popup_hud",
+    "shutdown_sequence_initialize",
+    "single_file_history_logging"
+  ]
+}
